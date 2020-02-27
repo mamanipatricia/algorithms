@@ -1,6 +1,5 @@
 ## ALGORITHMS
 
-### Exercise 37 from Project Euler
 - To run, type on console:
 
 - NUMBER 1.
