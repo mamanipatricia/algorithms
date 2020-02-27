@@ -9,6 +9,7 @@ def mini(array):
     for i in array:
         mini = min(mini, i)
     return mini
+
 minimo = mini(x)
 
 def solution(array):
